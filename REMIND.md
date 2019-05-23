@@ -1,0 +1,4 @@
+Rest微服务构建案例工程模块---使用RestTemplate
+- springcloud_microservicecloud_api
+- springcloud_microservicecloud_provider_8001
+- springcloud_microservicecloud_customer_9001
