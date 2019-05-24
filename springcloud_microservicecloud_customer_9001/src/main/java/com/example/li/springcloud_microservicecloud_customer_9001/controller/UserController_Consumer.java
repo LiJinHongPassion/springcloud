@@ -15,7 +15,9 @@ import java.util.Map;
 @RestController
 public class UserController_Consumer
 {
-    private static final String REST_URL_PREFIX = "http://localhost:8001";
+//    private static final String REST_URL_PREFIX = "http://localhost:8001";
+//    private static final String REST_URL_PREFIX = "http://MICROSERVICECLOUD-DEPT:8081";
+    private static final String REST_URL_PREFIX = "http://MICROSERVICECLOUD-DEPT";
 
     @Autowired
     private RestTemplate restTemplate;
@@ -24,7 +26,8 @@ public class UserController_Consumer
     @RequestMapping(value="/consumer/dept/discovery")
     public Object discovery()
     {
-        return restTemplate.getForObject("http://localhost:8081"+"/dept/discovery", Object.class);
+        System.out.println("转发地址：" + REST_URL_PREFIX);
+        return restTemplate.getForObject(REST_URL_PREFIX+"/dept/discovery", Object.class);
     }
 
 
