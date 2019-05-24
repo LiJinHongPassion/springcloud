@@ -24,6 +24,7 @@
         <module>springcloud-microservicecloud-feign-api</module>
         <module>springcloud-microservicecloud-feign-customer-9001</module>
         <module>springcloud-microservicecloud-feign-customer-8001</module>
+        <module>springcloud-microservicecloud-hystrix-provider-8081</module>
     </modules>
 
     <properties>

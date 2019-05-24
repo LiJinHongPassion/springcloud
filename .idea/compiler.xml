@@ -14,8 +14,8 @@
         <module name="springcloudmicroservicecloudfeigncustomer8001" />
         <module name="springcloudmicroservicecloudeurekaprovider8083" />
         <module name="springcloudmicroservicecloudeurekaprovider8082" />
-        <module name="springcloudmicroservicecloudeurekaprovider8081" />
         <module name="springcloud_microservicecloud_customer_9001" />
+        <module name="springcloudmicroservicecloudhystrixprovider8081" />
         <module name="springcloudmicroservicecloudfeignapi" />
         <module name="springcloud_microservicecloud_provider_8001" />
       </profile>

@@ -10,6 +10,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/springcloud-microservicecloud-hystrix-provider-8081/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/pom.xml" />
       </set>

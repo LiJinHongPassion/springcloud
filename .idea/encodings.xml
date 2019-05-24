@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-microservicecloud-hystrix-provider-8081" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-microservicecloud-hystrix-provider-8081" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_microservicecloud_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_microservicecloud_provider_8001" charset="UTF-8" />
