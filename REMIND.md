@@ -39,4 +39,20 @@
         - springcloud-microservicecloud-eureka-provider-8082    
         - springcloud-microservicecloud-eureka-provider-8083    
         - springcloud_microservicecloud_customer_9001  
-    
+    - Ribbon核心组件IRule（IRule：根据特定算法中从服务列表中选取一个要访问的服务）
+        - 方式
+            - RoundRobinRule-轮询
+            - RandomRule-随机 
+            - AvailabilityFilteringRule-会先过滤掉由于多次访问故障而处于断路器跳闸状态的服务，还有并发的连接数量超过阈值的服务，然后对剩余的服务列表按照轮询策略进行访问
+            - WeightedResponseTimeRule-根据平均响应时间计算所有服务的权重，响应时间越快服务权重越大被选中的概率越高。刚启动时如果统计信息不足，则使用RoundRobinRule策略，等统计信息足够，会切换到WeightedResponseTimeRule
+            - RetryRule-先按照RoundRobinRule的策略获取服务，如果获取服务失败则在指定时间内会进行重试，获取可用的服务
+            - BestAvailableRule-会先过滤掉由于多次访问故障而处于断路器跳闸状态的服务，然后选择一个并发量最小的服务
+            - ZoneAvoidanceRule-默认规则,复合判断server所在区域的性能和server的可用性选择服务器
+        - 示例
+            - springcloud-microservicecloud-eureka-7001
+            - springcloud-microservicecloud-eureka-7002
+            - springcloud-microservicecloud-eureka-7003
+            - springcloud-microservicecloud-eureka-provider-8081    服务注册，以下三个服务注册的服务名相同
+            - springcloud-microservicecloud-eureka-provider-8082    
+            - springcloud-microservicecloud-eureka-provider-8083    
+            - springcloud_microservicecloud_customer_9001          在这里修改负载均衡的方式IRule，也可自定义
