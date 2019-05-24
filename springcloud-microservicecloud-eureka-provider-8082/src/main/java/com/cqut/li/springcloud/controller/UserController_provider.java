@@ -75,7 +75,7 @@ public class UserController_provider {
     public String getUserById(@RequestParam("user_id") String user_id) {
 
         Map<String, Object> result = userService.getUserById(user_id);
-        result.put("url", "springcloud-microservicecloud-eureka-provider-8081");
+        result.put("url", "springcloud-microservicecloud-eureka-provider-8082");
 
         return JSON.toJSON(result).toString().replace("\"", "'");
     }

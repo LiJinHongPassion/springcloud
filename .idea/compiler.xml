@@ -11,6 +11,8 @@
         <module name="springcloudmicroservicecloudeureka7003" />
         <module name="springcloudmicroservicecloudeureka7002" />
         <module name="springcloudmicroservicecloudeureka7001" />
+        <module name="springcloudmicroservicecloudeurekaprovider8083" />
+        <module name="springcloudmicroservicecloudeurekaprovider8082" />
         <module name="springcloudmicroservicecloudeurekaprovider8081" />
         <module name="springcloud_microservicecloud_customer_9001" />
         <module name="springcloud_microservicecloud_provider_8001" />

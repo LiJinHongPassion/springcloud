@@ -25,3 +25,18 @@
         
 3 Ribbon负载均衡
     Spring Cloud Ribbon是基于Netflix Ribbon实现的一套**客户端**负载均衡的工具。
+    - Ribbon配置初步（Ribbon和Eureka整合后Consumer可以通过服务名直接调用服务而不用再关心地址和端口号）
+        - springcloud-microservicecloud-eureka-7001
+        - springcloud-microservicecloud-eureka-7002
+        - springcloud-microservicecloud-eureka-7003
+        - springcloud-microservicecloud-eureka-provider-8081    
+        - springcloud_microservicecloud_customer_9001    
+    - Ribbon负载均衡（Ribbon其实就是一个软负载均衡的客户端组件，他可以和其他所需请求的客户端结合使用，和eureka结合只是其中的一个实例。）
+        - springcloud-microservicecloud-eureka-7001
+        - springcloud-microservicecloud-eureka-7002
+        - springcloud-microservicecloud-eureka-7003
+        - springcloud-microservicecloud-eureka-provider-8081    服务注册，以下三个服务注册的服务名相同
+        - springcloud-microservicecloud-eureka-provider-8082    
+        - springcloud-microservicecloud-eureka-provider-8083    
+        - springcloud_microservicecloud_customer_9001  
+    
