@@ -20,6 +20,14 @@ public class UserController_Consumer
     @Autowired
     private RestTemplate restTemplate;
 
+    //测试@EnableDiscoveryClient,消费端可以调用服务发现
+    @RequestMapping(value="/consumer/dept/discovery")
+    public Object discovery()
+    {
+        return restTemplate.getForObject("http://localhost:8081"+"/dept/discovery", Object.class);
+    }
+
+
     @RequestMapping(value = "/user/login", method = RequestMethod.POST, produces = "text/plain;charset=UTF-8")
     public String login(@RequestParam("user_id") String user_id,
                         @RequestParam("user_password") String user_password) {

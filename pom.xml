@@ -12,6 +12,10 @@
         <module>springcloud_microservicecloud_api</module>
         <module>springcloud_microservicecloud_provider_8001</module>
         <module>springcloud_microservicecloud_customer_9001</module>
+        <module>springcloud-microservicecloud-eureka-7001</module>
+        <module>springcloud-microservicecloud-eureka-provider-8081</module>
+        <module>springcloud-microservicecloud-eureka-7002</module>
+        <module>springcloud-microservicecloud-eureka-7003</module>
     </modules>
 
     <properties>
@@ -78,5 +82,26 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <build>
+        <finalName>springcloud</finalName>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <configuration>
+                    <delimiters>
+                        <delimit>$</delimit>
+                    </delimiters>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
