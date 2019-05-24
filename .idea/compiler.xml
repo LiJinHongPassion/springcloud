@@ -11,15 +11,20 @@
         <module name="springcloudmicroservicecloudeureka7003" />
         <module name="springcloudmicroservicecloudeureka7002" />
         <module name="springcloudmicroservicecloudeureka7001" />
+        <module name="springcloudmicroservicecloudfeigncustomer8001" />
         <module name="springcloudmicroservicecloudeurekaprovider8083" />
         <module name="springcloudmicroservicecloudeurekaprovider8082" />
         <module name="springcloudmicroservicecloudeurekaprovider8081" />
         <module name="springcloud_microservicecloud_customer_9001" />
+        <module name="springcloudmicroservicecloudfeignapi" />
         <module name="springcloud_microservicecloud_provider_8001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="springcloud-microservicecloud-feign-api" target="1.8" />
+      <module name="springcloud-microservicecloud-feign-customer-9001" target="1.8" />
       <module name="springcloud_microservicecloud_suetomer_8080" target="1.8" />
+      <module name="springcloudmicroservicecloudfeigncustomer9001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

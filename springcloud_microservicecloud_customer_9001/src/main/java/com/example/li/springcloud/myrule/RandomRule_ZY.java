@@ -1,4 +1,4 @@
-package com.example.li.springcloud_microservicecloud_customer_9001.myrule;
+package com.example.li.springcloud.myrule;
 
 import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.AbstractLoadBalancerRule;

@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml" line="49" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7c1b918-8203-41bf-be66-25a9c8f3de07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/MySelfRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/RandomRule_ZY.java" afterDir="false" />
+    <list default="true" id="f7c1b918-8203-41bf-be66-25a9c8f3de07" name="Default Changelist" comment="3 Ribbon负载均衡----Ribbon负载均衡IRule(可自定义负载均衡方式)">
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/UserClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/entity/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/entity/base/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/classes/com/cqut/li/springcloud/api/UserClientService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/classes/com/cqut/li/springcloud/entity/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/classes/com/cqut/li/springcloud/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/classes/com/cqut/li/springcloud/entity/base/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/springcloud.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/DeptConsumer8001_feign_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/conf/ConfigBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/target/classes/META-INF/springcloudmicroservicecloudfeigncustomer8001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/target/classes/com/example/li/springcloud/DeptConsumer8001_feign_App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/target/classes/com/example/li/springcloud/conf/ConfigBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/target/classes/com/example/li/springcloud/controller/UserController_Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/REMIND.md" beforeDir="false" afterPath="$PROJECT_DIR$/REMIND.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/target/classes/com/cqut/li/springcloud/controller/UserController_provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/target/classes/com/cqut/li/springcloud/controller/UserController_provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/DeptConsumer9001_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/conf/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/controller/UserController_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/MySelfRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/myrule/MySelfRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/RandomRule_ZY.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/myrule/RandomRule_ZY.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,6 +57,10 @@
     <ignored path="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7003/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +75,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/UserClientService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+            <state relative-caret-position="158">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,43 +88,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/ConfigBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/RandomRule_ZY.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/MySelfRule.java">
+        <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/DeptConsumer8001_feign_App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/REMIND.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="193">
-                <caret line="44" column="24" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -117,31 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/service/Impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/s.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/DeptProvider8001_App.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/dao/base/Dao.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/dao/base/EntityDao.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/dao/base/SearchDao.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/a.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/controller/a.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/controller/DeptController_Consumer.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/springcloud/service/Impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/service/Impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/DeptProvider8001_App.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/java/a.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/java/EurekaServer7001_App.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/Dept_Eureka_Provider8001_App.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/java/Eureka_Server7001_App.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/java/com/cqut/li/springcloud/Eureka_Server7001_App.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/Eureka_Provider8081_App.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/resources/mapper/EntityMapper.xml" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/resources/mapper/SearchMapper.xml" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/resources/mapper/EntityMapper.xml" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/resources/mapper/SearchMapper.xml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7002/pom.xml" />
@@ -151,9 +141,7 @@
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7002/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-7003/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/controller/UserController_Consumer.java" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/pom.xml" />
@@ -162,12 +150,39 @@
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java" />
-        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java" />
         <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java" />
-        <option value="$PROJECT_DIR$/REMIND.md" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/MySelfRule.java" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/ConfigBean.java" />
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/src/main/java/d.java" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/src/main/java/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/src/main/java/com/cqut/li/springcloud/api/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/DeptConsumer9001_Feign_App.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/SpringcloudMicroservicecloudCustomer9001Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/conf/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/a.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/UserClientServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/DeptConsumer9001_feign_App.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/UserClientService.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/DeptConsumer9001_feign_App.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java" />
+        <option value="$PROJECT_DIR$/REMIND.md" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/DeptConsumer8001_feign_App.java" />
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -191,11 +206,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud_microservicecloud_api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springcloud-microservicecloud-feign-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud_microservicecloud_api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springcloud-microservicecloud-feign-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -203,8 +218,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="442" />
-    <option name="y" value="-25" />
+    <option name="x" value="330" />
+    <option name="y" value="37" />
     <option name="width" value="1455" />
     <option name="height" value="995" />
   </component>
@@ -214,6 +229,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,78 +238,17 @@
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="myrule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_microservicecloud_customer_9001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -302,7 +258,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -310,8 +266,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="project.structure.side.proportion" value="0.4085155" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -319,11 +275,11 @@
       <recent name="com.cqut.li.springcloud.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud_microservicecloud_customer_9001\src\main\java\com\example\li\springcloud_microservicecloud_customer_9001" />
-      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-eureka-provider-8083" />
-      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-eureka-provider-8082" />
-      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-eureka-7003\src\main\resources" />
-      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-eureka-7002\src\main\resources" />
+      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-customer-8001" />
+      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-customer-9001\src\main\resources" />
+      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-customer-9001\src\main\java\com\example\li\springcloud" />
+      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-api" />
+      <recent name="C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -338,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringcloudMicroservicecloudCustomer9001Application">
+  <component name="RunManager" selected="Spring Boot.DeptConsumer8001_feign_App">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -352,7 +308,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eureka_Provider8081_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="DeptConsumer8001_feign_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudmicroservicecloudfeigncustomer8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.li.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.li.springcloud.DeptConsumer8001_feign_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumer9001_feign_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springcloud-microservicecloud-feign-customer-9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.li.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.li.springcloud.DeptConsumer9001_feign_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka_Provider8081_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springcloudmicroservicecloudeurekaprovider8081" />
       <extension name="coverage">
         <pattern>
@@ -417,13 +399,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringcloudMicroservicecloudCustomer9001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springcloud_microservicecloud_customer_9001" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.li.springcloud_microservicecloud_customer_9001.SpringcloudMicroservicecloudCustomer9001Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -433,13 +408,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Eureka_Provider8081_App" />
+      <item itemvalue="Spring Boot.DeptConsumer9001_feign_App" />
+      <item itemvalue="Spring Boot.Eureka_Provider8083_App" />
+      <item itemvalue="Spring Boot.Eureka_Provider8082_App" />
+      <item itemvalue="Spring Boot.Eureka_Server7003_App" />
+      <item itemvalue="Spring Boot.Eureka_Server7002_App" />
+      <item itemvalue="Spring Boot.DeptConsumer8001_feign_App" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Eureka_Provider8081_App" />
+        <item itemvalue="Spring Boot.DeptConsumer8001_feign_App" />
         <item itemvalue="Spring Boot.Eureka_Provider8083_App" />
         <item itemvalue="Spring Boot.Eureka_Provider8082_App" />
-        <item itemvalue="Spring Boot.Eureka_Server7003_App" />
         <item itemvalue="Spring Boot.Eureka_Server7002_App" />
+        <item itemvalue="Spring Boot.Eureka_Server7003_App" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +445,10 @@
       <workItem from="1558616271909" duration="7914000" />
       <workItem from="1558624882405" duration="1760000" />
       <workItem from="1558657454466" duration="12759000" />
-      <workItem from="1558687572324" duration="2013000" />
+      <workItem from="1558687572324" duration="5461000" />
+      <workItem from="1558695216492" duration="3976000" />
+      <workItem from="1558699316200" duration="7221000" />
+      <workItem from="1558707236170" duration="4195000" />
     </task>
     <task id="LOCAL-00001" summary="2 Eureka服务注册发现中心集群">
       <created>1558680333278</created>
@@ -484,26 +471,32 @@
       <option name="project" value="LOCAL" />
       <updated>1558688549554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3 Ribbon负载均衡----Ribbon负载均衡IRule(可自定义负载均衡方式)">
+      <created>1558689795352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558689795352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27673000" />
+    <option name="totallyTimeSpent" value="46513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.34651473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.4852547" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.24128686" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5006916" side_tool="true" weight="0.18498659" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5803324" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.22160664" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38088644" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.30609417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -520,7 +513,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.20643431" />
       <window_info anchor="right" id="Bean Validation" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
@@ -572,199 +565,40 @@
     <MESSAGE value="2 Eureka服务注册发现中心集群" />
     <MESSAGE value="3 Ribbon负载均衡----Ribbon配置初步(Ribbon和Eureka整合后Consumer可以通过服务名直接调用服务而不用再关心地址和端口号)" />
     <MESSAGE value="3 Ribbon负载均衡----Ribbon负载均衡（Ribbon其实就是一个软负载均衡的客户端组件，他可以和其他所需请求的客户端结合使用，和eureka结合只是其中的一个实例。）" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Ribbon负载均衡----Ribbon负载均衡（Ribbon其实就是一个软负载均衡的客户端组件，他可以和其他所需请求的客户端结合使用，和eureka结合只是其中的一个实例。）" />
+    <MESSAGE value="3 Ribbon负载均衡----Ribbon负载均衡IRule(可自定义负载均衡方式)" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Ribbon负载均衡----Ribbon负载均衡IRule(可自定义负载均衡方式)" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/myrule/RandomRule_ZY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/myrule/MySelfRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_feign_api/src/main/java/com/cqut/li/springcloud/entity/base/Entity.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_feign_api/src/main/java/com/cqut/li/springcloud/api/DeptClientService.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_feign_api/pom.xml" />
     <entry file="file://$PROJECT_DIR$/springcloud.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/HELP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/service/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/dao/base/SearchDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/service/Impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.2.2.RELEASE/spring-cloud-commons-1.2.2.RELEASE.jar!/org/springframework/cloud/client/discovery/DiscoveryClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.3.1.RELEASE/spring-cloud-netflix-eureka-client-1.3.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="147" column="27" selection-start-line="147" selection-start-column="27" selection-end-line="147" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/annotation/Qualifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/dao/base/Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" lean-forward="true" selection-start-column="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/resources/mapper/SearchMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/resources/mapper/SearchMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/resources/mapper/EntityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/resources/mapper/EntityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/src/main/java/com/cqut/li/springcloud/DeptProvider8001_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/dao/base/EntityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-90011/springcloudmicroservicecloudfeigncustomer9001.iml" />
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/DeptConsumer9001_App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="28" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="28" selection-end-column="19" />
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="33" />
           <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7003/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7002/src/main/java/com/cqut/li/springcloud/Eureka_Server7002_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="81" column="25" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_provider_8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -775,7 +609,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/controller/UserController_Consumer.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-90011/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-90011/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-90011/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-90011/src/main/java/com/example/li/springcloud/conf/ConfigBean.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/springcloudmicroservicecloudfeigncustomer9001.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-90011/src/main/java/com/example/li/springcloud/DeptConsumer9001_feign_App.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/myrule/MySelfRule.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
@@ -785,122 +635,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+        <state relative-caret-position="323">
+          <caret line="83" column="12" lean-forward="true" selection-start-line="83" selection-start-column="12" selection-end-line="88" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/java/com/cqut/li/springcloud/dao/base/Dao.java">
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/service/Impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/UserClientServiceFallbackFactory.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="81" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/dao/base/Dao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="77" column="80" selection-start-line="77" selection-start-column="80" selection-end-line="77" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="77" column="77" selection-start-line="77" selection-start-column="77" selection-end-line="77" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="77" column="77" selection-start-line="77" selection-start-column="77" selection-end-line="77" selection-end-column="77" />
+        <state relative-caret-position="228">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7001/src/main/java/com/cqut/li/springcloud/Eureka_Server7001_App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7003/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/java/com/cqut/li/springcloud/Eureka_Provider8082_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/Eureka_Provider8083_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -913,52 +728,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8081/src/main/java/com/cqut/li/springcloud/Eureka_Provider8081_App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="114">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/java/com/cqut/li/springcloud/Eureka_Provider8082_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8083/src/main/java/com/cqut/li/springcloud/Eureka_Provider8083_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/java/com/cqut/li/springcloud/controller/UserController_provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="77" column="80" selection-start-line="77" selection-start-column="80" selection-end-line="77" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-provider-8082/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/conf/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-eureka-7002/src/main/java/com/cqut/li/springcloud/Eureka_Server7002_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/java/com/example/li/springcloud/DeptConsumer9001_feign_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="54" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/conf/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/controller/UserController_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/REMIND.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="193">
-            <caret line="44" column="24" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="24" />
+          <first_editor relative-caret-position="200">
+            <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/MySelfRule.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.1.RELEASE/spring-cloud-netflix-core-1.3.1.RELEASE.jar!/org/springframework/cloud/netflix/feign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-api/src/main/java/com/cqut/li/springcloud/api/UserClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/java/com/example/li/springcloud/DeptConsumer8001_feign_App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/conf/ConfigBean.java">
+    <entry file="file://$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-8001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/myrule/RandomRule_ZY.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/src/main/java/com/example/li/springcloud_microservicecloud_customer_9001/SpringcloudMicroservicecloudCustomer9001Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1013,11 +944,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springcloudmicroservicecloudeureka7001</last-edited>
+          <last-edited>springcloudmicroservicecloudfeignapi</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4085155" />
                 <option value="0.6" />
               </list>
             </option>

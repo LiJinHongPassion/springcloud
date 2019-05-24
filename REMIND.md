@@ -56,3 +56,18 @@
             - springcloud-microservicecloud-eureka-provider-8082    
             - springcloud-microservicecloud-eureka-provider-8083    
             - springcloud_microservicecloud_customer_9001          在这里修改负载均衡的方式IRule，也可自定义
+
+4 Feign负载均衡
+    - springcloud-microservicecloud-eureka-7001
+    - springcloud-microservicecloud-eureka-7002
+    - springcloud-microservicecloud-eureka-7003
+    - springcloud-microservicecloud-eureka-provider-8081    服务注册，以下三个服务注册的服务名相同
+    - springcloud-microservicecloud-eureka-provider-8082    
+    - springcloud-microservicecloud-eureka-provider-8083 
+    - springcloud_microservicecloud_feign_api  注意需要maven的clean再install
+    - springcloud_microservicecloud_feign_customer_9001 @EnableFeignClients(basePackages= {"com.cqut.li.springcloud"})
+                                                        @ComponentScan({"com.cqut.li.springcloud", "com.example.li.springcloud"}) 不添加这两行会autowrite not be found 
+    关于项目启动后，访问路径
+    // 原生路径： http://ip+端口/项目名称/action名称/方法mapping  
+    // feign路径：http://应用名称/path/方法mapping  
+    // 所以在 Path中设置项目名称和action名称  

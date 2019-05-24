@@ -1,4 +1,4 @@
-package com.example.li.springcloud_microservicecloud_customer_9001.conf;
+package com.example.li.springcloud.conf;
 
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RetryRule;
@@ -21,12 +21,6 @@ import org.springframework.web.client.RestTemplate;
 @Configuration
 public class ConfigBean
 {
-    @Bean
-    @LoadBalanced
-    public RestTemplate getRestTemplate()
-    {
-        return new RestTemplate();
-    }
 
     @Bean
     public IRule myRule()

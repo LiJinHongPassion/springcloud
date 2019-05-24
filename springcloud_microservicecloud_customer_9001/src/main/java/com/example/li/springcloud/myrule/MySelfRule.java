@@ -1,4 +1,4 @@
-package com.example.li.springcloud_microservicecloud_customer_9001.myrule;
+package com.example.li.springcloud.myrule;
 
 import com.netflix.loadbalancer.IRule;
 import org.springframework.context.annotation.Bean;

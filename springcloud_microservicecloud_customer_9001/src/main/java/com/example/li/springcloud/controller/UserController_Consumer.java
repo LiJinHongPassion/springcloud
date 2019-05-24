@@ -1,4 +1,4 @@
-package com.example.li.springcloud_microservicecloud_customer_9001.controller;
+package com.example.li.springcloud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springcloud_microservicecloud_api</module>
+        <module>springcloud-microservicecloud-feign-api</module>
         <module>springcloud_microservicecloud_provider_8001</module>
         <module>springcloud_microservicecloud_customer_9001</module>
         <module>springcloud-microservicecloud-eureka-7001</module>
@@ -18,6 +19,11 @@
         <module>springcloud-microservicecloud-eureka-7003</module>
         <module>springcloud-microservicecloud-eureka-provider-8082</module>
         <module>springcloud-microservicecloud-eureka-provider-8083</module>
+        <module>springcloud-microservicecloud-feign-customer-9001</module>
+        <module>springcloud-microservicecloud-feign-customer-9001</module>
+        <module>springcloud-microservicecloud-feign-api</module>
+        <module>springcloud-microservicecloud-feign-customer-9001</module>
+        <module>springcloud-microservicecloud-feign-customer-8001</module>
     </modules>
 
     <properties>
@@ -82,6 +88,7 @@
                 <artifactId>fastjson</artifactId>
                 <version>1.1.41</version>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
 
@@ -97,6 +104,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-resources-plugin</artifactId>
+                <version>3.1.0</version>
                 <configuration>
                     <delimiters>
                         <delimit>$</delimit>

@@ -8,6 +8,12 @@
         <option value="$PROJECT_DIR$/springcloud_microservicecloud_customer_9001/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springcloud-microservicecloud-feign-customer-9001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_microservicecloud_feign_api/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
