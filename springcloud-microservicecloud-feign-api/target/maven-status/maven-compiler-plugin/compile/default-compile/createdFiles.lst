@@ -1,4 +1,6 @@
+com\cqut\li\springcloud\api\UserClientServiceFallbackFactory$1.class
 com\cqut\li\springcloud\entity\User.class
 com\cqut\li\springcloud\api\UserClientService.class
 com\cqut\li\springcloud\entity\Dept.class
+com\cqut\li\springcloud\api\UserClientServiceFallbackFactory.class
 com\cqut\li\springcloud\entity\base\Entity.class

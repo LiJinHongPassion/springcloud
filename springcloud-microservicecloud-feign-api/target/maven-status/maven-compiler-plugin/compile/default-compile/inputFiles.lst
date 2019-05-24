@@ -2,3 +2,4 @@ C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\sp
 C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-api\src\main\java\com\cqut\li\springcloud\entity\Dept.java
 C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-api\src\main\java\com\cqut\li\springcloud\api\UserClientService.java
 C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-api\src\main\java\com\cqut\li\springcloud\entity\User.java
+C:\Users\Li\Desktop\springcloud资料\codes\微服务架构源码\springcloud\springcloud-microservicecloud-feign-api\src\main\java\com\cqut\li\springcloud\api\UserClientServiceFallbackFactory.java

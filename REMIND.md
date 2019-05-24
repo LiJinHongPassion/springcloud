@@ -1,7 +1,7 @@
 1 Rest微服务构建案例工程模块---使用RestTemplate
-- springcloud_microservicecloud_api
-- springcloud_microservicecloud_provider_8001
-- springcloud_microservicecloud_customer_9001
+    - springcloud_microservicecloud_api
+    - springcloud_microservicecloud_provider_8001
+    - springcloud_microservicecloud_customer_9001
 
 2 Eureka服务注册与发现
 - 单机Eureka
@@ -65,9 +65,25 @@
     - springcloud-microservicecloud-eureka-provider-8082    
     - springcloud-microservicecloud-eureka-provider-8083 
     - springcloud_microservicecloud_feign_api  注意需要maven的clean再install
-    - springcloud_microservicecloud_feign_customer_9001 @EnableFeignClients(basePackages= {"com.cqut.li.springcloud"})
+    - springcloud_microservicecloud_feign_customer_8001 @EnableFeignClients(basePackages= {"com.cqut.li.springcloud"})
                                                         @ComponentScan({"com.cqut.li.springcloud", "com.example.li.springcloud"}) 不添加这两行会autowrite not be found 
     关于项目启动后，访问路径
     // 原生路径： http://ip+端口/项目名称/action名称/方法mapping  
     // feign路径：http://应用名称/path/方法mapping  
     // 所以在 Path中设置项目名称和action名称  
+    
+5 Hystrix断路器
+    - 服务熔断(服务端provider中实现)
+        - springcloud-microservicecloud-eureka-7001
+        - springcloud-microservicecloud-eureka-7002
+        - springcloud-microservicecloud-eureka-7003
+        - springcloud-microservicecloud-hystrix-provider-8081
+        - springcloud_microservicecloud_customer_9001
+    - 服务降级(客户端customer中实现，整体资源快不够了，忍痛将某些服务先关掉，待渡过难关，再开启回来。)
+        - springcloud-microservicecloud-eureka-7001
+        - springcloud-microservicecloud-eureka-7002
+        - springcloud-microservicecloud-eureka-7003
+        - springcloud-microservicecloud-eureka-provider-8081
+        - springcloud_microservicecloud_feign_api
+        - springcloud_microservicecloud_feign_customer_8001
+        

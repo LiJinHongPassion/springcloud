@@ -1,7 +1,6 @@
 package com.cqut.li.springcloud.api;
 
 import org.springframework.cloud.netflix.feign.FeignClient;
-import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.*;
 
 
@@ -9,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
  * @author Li
  * @date 2019/5/24-18:22
  */
-@FeignClient(value = "MICROSERVICECLOUD-DEPT")
+@FeignClient(value = "MICROSERVICECLOUD-DEPT",fallbackFactory=UserClientServiceFallbackFactory.class)
 public interface UserClientService
 {
 
