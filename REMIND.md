@@ -86,4 +86,9 @@
         - springcloud-microservicecloud-eureka-provider-8081
         - springcloud_microservicecloud_feign_api
         - springcloud_microservicecloud_feign_customer_8001
-        
+    - 服务监控
+        - springcloud-microservicecloud-eureka-7001
+        - springcloud-microservicecloud-eureka-7002
+        - springcloud-microservicecloud-eureka-7003
+        - springcloud-microservicecloud-hystrix-provider-8081
+        - springcloud-microservicecloud-hystrix-dashboard-provider-8081
