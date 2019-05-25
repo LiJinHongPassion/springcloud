@@ -7,19 +7,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springcloudmicroservicecloudhystrixdashboardcustomer8001" />
+        <module name="springcloudmicroservicecloudconfig3344" />
         <module name="springcloud_microservicecloud_api" />
+        <module name="springcloudmicroservicecloudzuulgateway9527" />
         <module name="springcloudmicroservicecloudeureka7003" />
         <module name="springcloudmicroservicecloudeureka7002" />
         <module name="springcloudmicroservicecloudeureka7001" />
-        <module name="springcloudmicroservicecloudfeigncustomer8001" />
+        <module name="springcloud_microservicecloud_provider_8001" />
+        <module name="springcloudmicroservicecloudfeignapi" />
+        <module name="springcloudmicroservicecloudconfigclient3355" />
+        <module name="springcloud_microservicecloud_customer_9001" />
         <module name="springcloudmicroservicecloudeurekaprovider8083" />
         <module name="springcloudmicroservicecloudeurekaprovider8082" />
         <module name="springcloudmicroservicecloudeurekaprovider8081" />
-        <module name="springcloud_microservicecloud_customer_9001" />
-        <module name="springcloudmicroservicecloudhystrixdashboardcustomer8001" />
+        <module name="springcloudmicroservicecloudfeigncustomer8001" />
         <module name="springcloudmicroservicecloudhystrixprovider8081" />
-        <module name="springcloudmicroservicecloudfeignapi" />
-        <module name="springcloud_microservicecloud_provider_8001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

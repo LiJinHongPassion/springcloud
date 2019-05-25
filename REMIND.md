@@ -92,3 +92,16 @@
         - springcloud-microservicecloud-eureka-7003
         - springcloud-microservicecloud-hystrix-provider-8081
         - springcloud-microservicecloud-hystrix-dashboard-provider-8081
+
+6 zuul路由网关
+    - springcloud-microservicecloud-eureka-7001
+    - springcloud-microservicecloud-eureka-7002
+    - springcloud-microservicecloud-eureka-7003
+    - springcloud-microservicecloud-eureka-provider-8081
+    - springcloud-microservicecloud-zuul-gateway-9527
+    
+6 SpringCloud Config分布式配置中心
+    - SpringCloud Config客户端配置与测试
+        - 新建github仓库-springcloud_config
+        - springcloud-microservicecloud-config-3344 服务端
+        - springcloud-microservicecloud-config-client-3355 客户端

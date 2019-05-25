@@ -23,6 +23,9 @@
         <module>springcloud-microservicecloud-feign-customer-8001</module>
         <module>springcloud-microservicecloud-hystrix-provider-8081</module>
         <module>springcloud-microservicecloud-hystrix-dashboard-customer-8001</module>
+        <module>springcloud-microservicecloud-zuul-gateway-9527</module>
+        <module>springcloud-microservicecloud-config-3344</module>
+        <module>springcloud-microservicecloud-config-client-3355</module>
     </modules>
 
     <properties>
