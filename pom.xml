@@ -26,6 +26,7 @@
         <module>springcloud-microservicecloud-zuul-gateway-9527</module>
         <module>springcloud-microservicecloud-config-3344</module>
         <module>springcloud-microservicecloud-config-client-3355</module>
+        <module>springcloud-microservicecloud-config-eureka-client-7001</module>
     </modules>
 
     <properties>

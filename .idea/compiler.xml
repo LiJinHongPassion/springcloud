@@ -11,6 +11,7 @@
         <module name="springcloudmicroservicecloudconfig3344" />
         <module name="springcloud_microservicecloud_api" />
         <module name="springcloudmicroservicecloudzuulgateway9527" />
+        <module name="springcloudmicroservicecloudconfigeurekaclient7001" />
         <module name="springcloudmicroservicecloudeureka7003" />
         <module name="springcloudmicroservicecloudeureka7002" />
         <module name="springcloudmicroservicecloudeureka7001" />
