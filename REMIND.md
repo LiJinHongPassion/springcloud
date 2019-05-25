@@ -110,13 +110,12 @@
             - 配置仓库新建文件microservicecloud-config-eureka-client.yml，并添加配置内容  **先要推送上github去**
             - springcloud-microservicecloud-config-3344 服务端
             - springcloud-microservicecloud-config-eureka-client-7001   
-        
-        
-        
-        
         - Config版的dept微服务
             - 配置仓库新建文件microservicecloud-config-dept-client.yml，并添加配置内容  **先要推送上github去**
-                        
+            - springcloud-microservicecloud-config-3344 服务端
+            - springcloud-microservicecloud-config-eureka-client-7001 
+            - springcloud-microservicecloud-config-provider-client-8081
+             
        
         当配置更改，需要重启config-3344配置中心，并且只要配置中心的yml文件更改后，需要重启对应微服务
         

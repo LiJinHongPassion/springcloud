@@ -16,6 +16,7 @@
         <module name="springcloudmicroservicecloudeureka7002" />
         <module name="springcloudmicroservicecloudeureka7001" />
         <module name="springcloud_microservicecloud_provider_8001" />
+        <module name="springcloudmicroservicecloudconfigproviderclient8081" />
         <module name="springcloudmicroservicecloudfeignapi" />
         <module name="springcloudmicroservicecloudconfigclient3355" />
         <module name="springcloud_microservicecloud_customer_9001" />
