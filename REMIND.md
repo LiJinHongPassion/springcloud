@@ -119,4 +119,6 @@
        
         当配置更改，需要重启config-3344配置中心，并且只要配置中心的yml文件更改后，需要重启对应微服务
         
-       
+7 添加sql文件
+8 利用docker部署
+    springcloud-microservicecloud-eureka-7001利用docker部署
